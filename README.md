@@ -20,4 +20,4 @@ Para que o documento fique todo parametrizado segundo o seu programa de pós-gra
 - **[impressao]** Gera exclusivamente uma versão para impressão do documento;
 - **[french, spanish, english, brazil]** Adiciona o idioma para correta hifenização correta no documento. Os idiomas bases para o modelo (português e inglês) não precisam ser declarados.
 
-<p align="center"><img src="images/curso.png"  width="700" height="155" align="middle"/></p>
+<p align="center"><img src="images/curso.png"  width="600" height="133" align="middle"/></p>
