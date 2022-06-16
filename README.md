@@ -1,12 +1,14 @@
 Tese do Doutorado Profissional CESAR School 
 =================
+<p align="center"><img src="images/banner-pesquisa-cesar-school.png"  width="400" height="255" align="middle"/></p>
 
-Este modelo visa atender as exigências dos Programas de Pós-Graduação do Instituto de Ciências Matemáticas e de Computação. As normas principais estão baseadas na ABNT, com algumas adaptações em relação aos estilos dos capítulos, capa e folhas de rostos.
+Este modelo, adaptado a partir do template da [ICMC/USP](https://www.overleaf.com/latex/templates/modelo-de-teses-e-dissertacoes-icmc-slash-usp/cvqdvbnxjqts), visa atender as exigências dos Programas de Pós-Graduação da CESAR School. O presente template encontra-se aderente ao que preconiza a Associação Brasileira de Normas Técnicas (ABNT), todavia com algumas adaptações em relação aos estilos dos capítulos, capa e folhas de rostos.
 
 O requisito básico para utilização da classe **_icmc_** é criar um documento desta classe com o comando
 `\documentclass[@parameters]{icmc}` e ter, no diretório de trabalho, o arquivo *icmc.cls* presente. Entretanto, recomenda-se fortemente manter a estrutura de diretório inicial fornecida por este modelo. 
 
-Para que o documento esteja em conformidade com as normas exigidas pelo programa de Pós-Graduação, o **projeto deve ser compilado utilizando *XeLaTeX* ou *LuaLaTeX***. Esse processo de compilação é necessário para que as fontes externas utilizadas para gerar a capa sejam incluídas.
+Para que o documento esteja em conformidade com as normas exigidas pelo programa de Pós-Graduação, o **projeto deve ser compilado utilizando *pdfLaTeX*** e versão **2016 (Overleaf v1) (Legacy)***. Para isso acesse o Menu do overleaf e parametrize o documento conforme imagem abaixo:
+<p align="center"><img src="images/erro-compilação.png"  width="800" height="899" align="middle"/></p>
 
 Os parâmetros possíveis utilizados pelo `\documentclass` são:
 - **[qualificacao]** Exclusivamente para monografias de qualificação em geral;
