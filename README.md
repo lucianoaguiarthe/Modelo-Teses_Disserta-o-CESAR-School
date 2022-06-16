@@ -1,5 +1,3 @@
-Tese do Doutorado Profissional CESAR School 
-=================
 <p align="center"><img src="images/banner-pesquisa-cesar-school.png"  width="400" height="255" align="middle"/></p>
 
 <p align="justify">Este modelo, adaptado a partir do template da [ICMC/USP](https://www.overleaf.com/latex/templates/modelo-de-teses-e-dissertacoes-icmc-slash-usp/cvqdvbnxjqts), visa atender as exigências dos Programas de Pós-Graduação da CESAR School. O presente template encontra-se aderente ao que preconiza a Associação Brasileira de Normas Técnicas (ABNT), todavia com algumas adaptações em relação aos estilos dos capítulos, capa e folhas de rostos.</p>
@@ -12,7 +10,7 @@ Para que o documento esteja em conformidade com as normas exigidas pelo programa
 
 O documento pode ser utilizado tanto para os programas de Mestrado como para o de Doutorado, dentro da pasta `\documentclass`, encontra-se os arquivos <b>capa-doutorado.pdf</b> e <b>capa-mestrado.pdf</b>, renomei o arquivo conforme seu programa de pós-graduação para <b>capa.pdf</b>.
 
-Para que o documento fique todo parametrizado segundo o seu programa de pós-graduação altere ainda o arquivo <b>icmc.cls</b>, localizado dentro da pasta `\documentclass`, conforme parâmetros e imagem descritos a seguir: 
+Para que o documento fique todo parametrizado segundo o seu programa de pós-graduação altere ainda o arquivo <b>thesis.tex</b>, conforme parâmetros e imagem descritos a seguir: 
 
 - **[qualificacao]** Exclusivamente para monografias de qualificação em geral;
 - **[mestrado / doutorado]** Identifica o curso ao qual o aluno pertence, sendo utilizado apenas uma das duas opcões disponíveis. O valor padrão é **doutorado**;
