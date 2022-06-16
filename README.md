@@ -8,7 +8,7 @@ O requisito básico para utilização da classe **_icmc_** é criar um documento
 `\documentclass[@parameters]{icmc}` e ter, no diretório de trabalho, o arquivo *icmc.cls* presente. Entretanto, recomenda-se fortemente manter a estrutura de diretório inicial fornecida por este modelo. 
 
 Para que o documento esteja em conformidade com as normas exigidas pelo programa de Pós-Graduação, o **projeto deve ser compilado utilizando *pdfLaTeX*** e versão **2016 (Overleaf v1) (Legacy)***. Para isso acesse o Menu do overleaf e parametrize o documento conforme imagem abaixo:
-<p align="center"><img src="images/erro-compilação.png"  width="280" height="427" align="middle"/></p>
+<p align="center"><img src="images/erro-compilação.png"  width="380" height="427" align="middle"/></p>
 
 Os parâmetros possíveis utilizados pelo `\documentclass` são:
 - **[qualificacao]** Exclusivamente para monografias de qualificação em geral;
