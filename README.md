@@ -33,4 +33,4 @@ Com a finalidade de que o documento fique todo parametrizado segundo o seu progr
 
 - **`\anexo`**  o presente diretório é utilizado para disponibilizar o ppt que contém as imagens utilizadas na capa de cada capítulo, para que o pesquisador possa alterar conforme seu estudo e gerar uma nova imagem, conforme exemplo abaixo:
 
-<p align="center"><img src="images/capa-capitulo.png"  width="750" height="700" align="middle"/></p>
+<p align="center"><img src="images/capa-capitulo.png"  width="580" height="541" align="middle"/></p>
