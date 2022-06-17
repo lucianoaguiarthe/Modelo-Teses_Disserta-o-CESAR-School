@@ -5,6 +5,11 @@ O requisito básico para utilização da classe **_icmc_** é criar um documento
 
 a seguir: 
 
+\citeonline{8013946}
+\sigla{AWS}{Amazon Web Services}
+
+<a href="http://example.com/" target="_blank">Hello, world!</a>
+
 - **[qualificacao]** Exclusivamente para monografias de qualificação em geral;
 - **[mestrado / doutorado]** Identifica o curso ao qual o aluno pertence, sendo utilizado apenas uma das duas opcões disponíveis. O valor padrão é **doutorado**;
 
