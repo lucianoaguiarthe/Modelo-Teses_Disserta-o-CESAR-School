@@ -34,3 +34,7 @@ Com a finalidade de que o documento fique todo parametrizado segundo o seu progr
 - **`\anexo`**  o presente diretório é utilizado para disponibilizar o ppt que contém as imagens utilizadas na capa de cada capítulo, para que o pesquisador possa alterar conforme seu estudo e gerar uma nova imagem, conforme exemplo abaixo:
 
 <p align="center"><img src="images/capa-capitulo.png"  width="580" height="541" align="middle"/></p>
+
+## Formatação Documento
+
+Para entender melhor sobre formatação do texto no Overleaf [Clique aqui](\format-overleaf.md)
