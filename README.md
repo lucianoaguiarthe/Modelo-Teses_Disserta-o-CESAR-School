@@ -111,9 +111,28 @@ texto...(JOÃO, 2020).
 
 **Resultado:**
 
-***texto a ser negritado***
+***texto itálico***
 
 ---
 
+#### Para utilizar marcadores use "
+
+**Exemplo Sintaxe:** 
+```ruby
+\begin{itemize}
+    \item item 1;
+    \item item 2; e,
+    \item item 3.    
+\end{itemize}
+```
+
+**Resultado:**
+* item 1;
+* item 2;
+* item 3.
+
+***texto itálico***
+
+---
 
 </details> 
