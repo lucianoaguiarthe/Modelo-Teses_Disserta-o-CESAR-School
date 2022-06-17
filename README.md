@@ -50,7 +50,7 @@ Resultado:
    Segundo João (2020), texto...
 ```
 
-######Para gerar abreviaturas automáticas utilize "\sigla{abreviatura}{significado abreviatura}" 
+##### Para gerar abreviaturas automáticas utilize "\sigla{abreviatura}{significado abreviatura}" 
 
 **Exemplo Sintaxe:** 
 
