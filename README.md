@@ -193,4 +193,5 @@ Em tabelas que superam o tamanho de uma página sugiro utilizar o marcador <b>lo
 ---
 
 </details> 
->Para sugestão ou revisão envie o [e-mail](mailto:luciano@lucianoaguiar.com.br)
+
+>Para dúvidas, sugestão ou revisão envie o [e-mail](mailto:luciano@lucianoaguiar.com.br)
