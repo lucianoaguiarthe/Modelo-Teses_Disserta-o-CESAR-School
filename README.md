@@ -164,6 +164,32 @@ Em tabelas que superam o tamanho de uma página sugiro utilizar o marcador <b>lo
 
 ---
 
+#### Inserção de Imagem de 15cm no Texto utilize a tag figure, com o parâmetro width=15cm
 
+**Exemplo Sintaxe:** 
+
+```ruby
+\begin{figure}[ht]
+\centering
+\includegraphics[width=15cm]{diretorio/nome-da-figura}
+\label{fig:metodologia-cap1}
+\end{figure}
+```
+
+---
+
+#### Inserção de Imagem ocupando a largura da página no Texto utilize a tag figure, com o parâmetro width=\linewidth
+
+**Exemplo Sintaxe:** 
+
+```ruby
+\begin{figure}[ht]
+\centering
+\includegraphics[width=\linewidth]{diretorio/nome-da-figura}
+\label{fig:metodologia-cap1}
+\end{figure}
+```
+
+---
 
 </details> 
