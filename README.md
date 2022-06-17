@@ -89,7 +89,7 @@ texto...(JOÃO, 2020).
 
 ---
 
-#### Para deixar um texto em negrito utilize textbf"
+#### Para deixar um texto em negrito utilize textbf
 
 **Exemplo Sintaxe:** 
 ```ruby
@@ -102,7 +102,7 @@ texto...(JOÃO, 2020).
 
 ---
 
-#### Para deixar um texto em negrito utilize textit"
+#### Para deixar um texto em negrito utilize textit
 
 **Exemplo Sintaxe:** 
 ```ruby
@@ -115,7 +115,7 @@ texto...(JOÃO, 2020).
 
 ---
 
-#### Para utilizar marcadores use "
+#### Para utilizar marcadores use <b>itemize</b>
 
 **Exemplo Sintaxe:** 
 ```ruby
@@ -128,10 +128,8 @@ texto...(JOÃO, 2020).
 
 **Resultado:**
 * item 1;
-* item 2;
+* item 2; e,
 * item 3.
-
-***texto itálico***
 
 ---
 
