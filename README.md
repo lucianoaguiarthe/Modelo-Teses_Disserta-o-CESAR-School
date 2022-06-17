@@ -52,6 +52,7 @@ Para entender melhor sobre formatação do texto no Overleaf [Clique aqui](forma
 
 João (2020), texto...
 
+---
 
 #### Para gerar abreviaturas automáticas utilize "\sigla{abreviatura}{significado abreviatura}" 
 
