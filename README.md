@@ -37,4 +37,4 @@ Com a finalidade de que o documento fique todo parametrizado segundo o seu progr
 
 ## Formatação Documento
 
-Para entender melhor sobre formatação do texto no Overleaf [Clique aqui](main/format-overleaf.md)
+Para entender melhor sobre formatação do texto no Overleaf [Clique aqui](format-overleaf.md)
