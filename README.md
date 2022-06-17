@@ -41,14 +41,17 @@ Para entender melhor sobre formatação do texto no Overleaf [Clique aqui](forma
 <details>
   <summary markdown="span">Formatação Própria do Projeto</summary>
 
-Para citações indiretas "Autor (ano)" utilize "citeonline"
+#### Para citações indiretas "Autor (ano)" utilize "citeonline"
 
-Exemplo: Segundo \citeonline{referencia}, texto
-
+**Exemplo Sintaxe:** 
 ```ruby
-Resultado:
-   Segundo João (2020), texto...
+\citeonline{referencia}
 ```
+
+**Resultado:**
+
+João (2020), texto...
+
 
 #### Para gerar abreviaturas automáticas utilize "\sigla{abreviatura}{significado abreviatura}" 
 
