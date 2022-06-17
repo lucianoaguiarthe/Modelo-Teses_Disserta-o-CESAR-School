@@ -25,6 +25,17 @@ a seguir:
 Fim do colapso  
 </details>
 
+```ruby
+def hello
+   puts "Hello world!"
+end
+```
+
+
+
+
+
+
 <a href="http://example.com" target="_blank" rel="noopener noreferrer" title="Por favor, clique com o botão direito do mouse para abrir em uma nova guia">example.com</a>
 
 - **[qualificacao]** Exclusivamente para monografias de qualificação em geral;
