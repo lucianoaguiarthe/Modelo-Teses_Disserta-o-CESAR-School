@@ -37,7 +37,7 @@ Com a finalidade de que o documento fique todo parametrizado segundo o seu progr
 
 ## Formatação Documento
 
-Para entender melhor sobre formatação do texto no Overleaf [Clique aqui](format-overleaf.md)
+
 <details>
   <summary markdown="span">Formatação Própria do Projeto</summary>
 
@@ -68,5 +68,38 @@ João (2020), texto...
    AWS Amazon Web Service.
 
 ---
+
+
   
 </details>  
+
+<details>
+  <summary markdown="span">Formatação Overleaf</summary>
+  
+#### Para citações direta "(Autor, ano)" utilize "cite"
+
+**Exemplo Sintaxe:** 
+```ruby
+\cite{referencia}
+```
+
+**Resultado:**
+
+texto...(JOÃO, 2020).
+
+---
+
+#### Para deixar um texto em negrito utilie textbf"
+
+**Exemplo Sintaxe:** 
+```ruby
+\textbf{texto a ser negrigrato}
+```
+
+**Resultado:**
+
+<b>texto a ser negritado</b>
+
+---
+
+</details> 
