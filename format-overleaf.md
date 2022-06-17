@@ -10,6 +10,8 @@ a seguir:
 
 <a href="http://example.com/" target="_blank">Hello, world!</a>
 
+[go](http://stackoverflow.com){:target="_blank" rel="noopener"}
+
 - **[qualificacao]** Exclusivamente para monografias de qualificação em geral;
 - **[mestrado / doutorado]** Identifica o curso ao qual o aluno pertence, sendo utilizado apenas uma das duas opcões disponíveis. O valor padrão é **doutorado**;
 
