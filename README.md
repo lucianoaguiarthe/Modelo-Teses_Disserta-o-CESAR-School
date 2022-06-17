@@ -161,6 +161,7 @@ Para criação de tabelas no overleaf sugiro um gerador on-line de código, conf
 
 Em tabelas que superam o tamanho de uma página sugiro utilizar o marcador <b>longtable</b>.
 
+
 ---
 
 
