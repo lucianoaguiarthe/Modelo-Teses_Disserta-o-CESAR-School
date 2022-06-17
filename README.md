@@ -152,4 +152,17 @@ texto...(JOÃO, 2020).
 
 ---
 
+#### Criação de Tabelas no Overleaf
+
+Para criação de tabelas no overleaf sugiro um gerador on-line de código, conforme descrito a seguir:
+
+<a href="https://www.latex-tables.com/" target="_blank" rel="noopener noreferrer" title="Por favor, clique com o botão direito do mouse para abrir em uma nova guia">https://www.latex-tables.com/</a>
+
+
+Em tabelas que superam o tamanho de uma página sugiro utilizar o marcador <b>longtable</b>.
+
+---
+
+
+
 </details> 
