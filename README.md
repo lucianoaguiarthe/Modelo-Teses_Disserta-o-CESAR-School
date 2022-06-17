@@ -89,7 +89,7 @@ texto...(JOÃO, 2020).
 
 ---
 
-#### Para deixar um texto em negrito utilie textbf"
+#### Para deixar um texto em negrito utilize textbf"
 
 **Exemplo Sintaxe:** 
 ```ruby
@@ -101,5 +101,19 @@ texto...(JOÃO, 2020).
 <b>texto a ser negritado</b>
 
 ---
+
+#### Para deixar um texto em negrito utilize textit"
+
+**Exemplo Sintaxe:** 
+```ruby
+\textbf{texto itálico}
+```
+
+**Resultado:**
+
+***texto a ser negritado***
+
+---
+
 
 </details> 
