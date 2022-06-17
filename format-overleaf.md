@@ -13,7 +13,7 @@ a seguir:
 [go](http://stackoverflow.com){:target="_blank" rel="noopener"}
 
 <details>
-  <summary markdown="span">**This is the summary text, click me to expand**</summary>
+  <summary markdown="span"><b>This is the summary text, click me to expand</b></summary>
 
   This is the detailed text.
 
