@@ -39,7 +39,7 @@ Com a finalidade de que o documento fique todo parametrizado segundo o seu progr
 
 Para entender melhor sobre formatação do texto no Overleaf [Clique aqui](format-overleaf.md)
 <details>
-  <summary markdown="span">**Formatação Própria da Pesquisa**</summary>
+  <summary markdown="span">**Formatação Própria do Projeto**</summary>
 ##### Para citações indiretas "Autor (ano)" utilize "citeonline"
 
 Exemplo: Segundo \citeonline{referencia}, texto
