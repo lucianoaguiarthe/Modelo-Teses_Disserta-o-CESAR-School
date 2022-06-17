@@ -39,10 +39,9 @@ Com a finalidade de que o documento fique todo parametrizado segundo o seu progr
 
 Para entender melhor sobre formatação do texto no Overleaf [Clique aqui](format-overleaf.md)
 <details>
-  <summary markdown="span">**Formatação Própria do Projeto**</summary>
+  <summary markdown="span">Formatação Própria do Projeto</summary>
 
 Para citações indiretas "Autor (ano)" utilize "citeonline"
----
 
 Exemplo: Segundo \citeonline{referencia}, texto
 
@@ -51,8 +50,7 @@ Resultado:
    Segundo João (2020), texto...
 ```
 
-Para gerar abreviaturas automáticas utilize "\sigla{abreviatura}{significado abreviatura}" 
------ 
+######Para gerar abreviaturas automáticas utilize "\sigla{abreviatura}{significado abreviatura}" 
 
 **Exemplo Sintaxe:** 
 
