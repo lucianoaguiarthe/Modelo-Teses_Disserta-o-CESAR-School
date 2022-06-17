@@ -115,7 +115,7 @@ texto...(JOÃO, 2020).
 
 ---
 
-#### Para utilizar marcadores use <b>itemize</b>
+#### Para criar marcadores use "itemize"
 
 **Exemplo Sintaxe:** 
 ```ruby
@@ -130,6 +130,25 @@ texto...(JOÃO, 2020).
 * item 1;
 * item 2; e,
 * item 3.
+
+---
+
+#### Para criar numeração use "itemize"
+
+**Exemplo Sintaxe:** 
+```ruby
+  \begin{enumerate}
+    \item item 1;
+    \item item 2; e,
+    \item item 3.
+  \end{enumerate}
+```
+
+**Resultado:**
+
+1. item 1;
+2. item 2; e,
+3. item 3.
 
 ---
 
