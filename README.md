@@ -38,3 +38,23 @@ Com a finalidade de que o documento fique todo parametrizado segundo o seu progr
 ## Formatação Documento
 
 Para entender melhor sobre formatação do texto no Overleaf [Clique aqui](format-overleaf.md)
+<details>
+  <summary markdown="span">**Formatação Própria da Pesquisa**</summary>
+##### Para citações indiretas "Autor (ano)" utilize "citeonline"
+
+Exemplo: Segundo \citeonline{referencia}, texto
+
+```ruby
+Resultado:
+   Segundo João (2020), texto...
+```
+##### Para gerar abreviaturas automáticas utilize "\sigla{abreviatura}{significado abreviatura}"  
+
+Exemplo: \sigla{AWS}{Amazon Web Services}
+
+```ruby
+Resultado:
+   AWS Amazon Web Service.
+```
+  
+</details>  
