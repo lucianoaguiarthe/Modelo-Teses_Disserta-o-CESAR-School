@@ -51,7 +51,11 @@ Resultado:
 ```
 ##### Para gerar abreviaturas automáticas utilize "\sigla{abreviatura}{significado abreviatura}"  
 
-Exemplo: \sigla{AWS}{Amazon Web Services}
+Sintaxe: 
+
+```ruby
+\sigla{AWS}{Amazon Web Services}
+```
 
 ```ruby
 Resultado:
