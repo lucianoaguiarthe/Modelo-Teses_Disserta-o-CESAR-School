@@ -29,7 +29,7 @@ Com a finalidade de que o documento fique todo parametrizado segundo o seu progr
 
 - **`\tex`** este diretório concentra todos os subdiretórios e arquivos, referente a escrita do projeto, organizado por anexos `\tex\annex`, capítulos `\tex\chapters`, capa do capítulo `\tex\part`, apêndices `\tex\appendix`, elementos pré-textuais `\tex\pre-textual`.
 
-- **`\modelos_compilados`** este diretório não possui relação com o projeto, foi utilizado somente para disponibilizar os modelos já commpilados tanto de [tese](\modelos_compilados\Modelo_Teses_CESAR_School.pdf) como da [dissertação](\modelos_compilados\Modelo_Dissertação_CESAR_School.pdf).
+- **`\modelos_compilados`** este diretório não possui relação com o projeto, foi utilizado somente para disponibilizar os modelos já commpilados tanto de [tese](modelos_compilados\Modelo_Teses_CESAR_School.pdf) como da [dissertação](modelos_compilados\Modelo_Dissertação_CESAR_School.pdf).
 
 - **`\anexo`**  o presente diretório é utilizado para disponibilizar o ppt que contém as imagens utilizadas na capa de cada capítulo, para que o pesquisador possa alterar conforme seu estudo e gerar uma nova imagem, conforme exemplo abaixo:
 
