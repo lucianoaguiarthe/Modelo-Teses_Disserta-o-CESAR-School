@@ -52,7 +52,7 @@ Resultado:
 ```
 
 Para gerar abreviaturas automáticas utilize "\sigla{abreviatura}{significado abreviatura}" 
---- 
+----- 
 
 **Exemplo Sintaxe:** 
 
