@@ -152,6 +152,19 @@ texto...(JOÃO, 2020).
 
 ---
 
+#### Para criar notas de rodapé use "footnote"
+
+**Exemplo Sintaxe:** 
+```ruby
+  \footnote{texto da nota de rodapé}
+```
+
+**Resultado:**
+
+<p align="center"><img src="images/notarodape.png"  width="800" height="155" align="middle"/></p>
+
+---
+
 #### Criação de Tabelas no Overleaf
 
 Para criação de tabelas no overleaf sugiro um gerador on-line de código, conforme descrito a seguir:
